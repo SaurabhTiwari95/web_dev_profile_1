@@ -50,6 +50,6 @@ Before starting the application, you need to rename the files inside the `src/en
 Wait to compile and go to http://localhost:4200 after compile finish
 
 
-## Previous versions
+<!-- ## Previous versions -->
 
 <!-- my previous versions of this website can be found at [marckevinflores/prev-websites](https://github.com/marckevinflores/prev-websites) -->
